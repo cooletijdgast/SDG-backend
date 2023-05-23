@@ -1,3 +1,7 @@
+# This a school project I worked on, I mostly worked on the backend. \
+[] # You can find my code by searching for ```@author Lars Brinker```.
+
+
 # Angular Amigo's SDG Webapp Backend
 
 To initialize the repository on your machine, run the following command in the root directory:
