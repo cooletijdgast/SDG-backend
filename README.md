@@ -1,4 +1,4 @@
-# This a school project I worked on, I mostly worked on the backend.
+# This a school project I worked on, I mostly worked on the backend. The frontend repo can be found [here](https://github.com/cooletijdgast/SDG-frontend).
 You can find my code by searching for ```@author Lars Brinker```.
 
 
