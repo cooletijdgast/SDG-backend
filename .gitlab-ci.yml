@@ -1,0 +1,21 @@
+image: node:16
+
+stages:
+  - lint
+  - test
+
+lint:
+  tags:
+    - hva
+  stage: lint
+  script:
+    - npm install
+    - npm run check
+
+test:
+  tags:
+    - hva
+  stage: test
+  script:
+    - npm install
+    - npm test
